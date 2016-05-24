@@ -8,6 +8,6 @@
 </head>
 <body>
 <s:url action="produits" namespace="/" var="lien1"></s:url>
-<s:a href="%{lien1}" >Registr webservices</s:a>
+<s:a href="%{lien1}" >Registre webservices</s:a>
 </body>
 </html>
