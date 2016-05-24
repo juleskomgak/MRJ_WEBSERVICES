@@ -1,0 +1,27 @@
+@CHARSET "UTF-8";
+
+div {
+	margin: 10px;
+	padding: 10px;
+	border: 1px dotted gray;
+}
+
+.table1 th {
+	
+	padding: 5px;
+	border: 1px dotted gray;
+	color: white;
+	background: maroon;
+}
+
+.errorMessage {
+	
+	color: red;
+}
+
+.table1 td {
+	
+	padding: 5px;
+	border: 1px dotted gray;
+	background: white;
+}

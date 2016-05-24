@@ -1,0 +1,7 @@
+org\jk\dao\WebserviceImpl.class
+org\jk\service\SingletonService2.class
+org\jk\service\Webservice_serviceIMPLE.class
+org\jk\service\IWebservice_Service.class
+org\jk\entities\Webservice.class
+org\jk\dao\IWebservice.class
+org\jk\web\WebserviceAction.class
