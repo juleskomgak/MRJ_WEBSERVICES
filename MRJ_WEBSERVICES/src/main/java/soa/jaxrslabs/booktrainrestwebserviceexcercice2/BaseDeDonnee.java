@@ -22,8 +22,8 @@ public class BaseDeDonnee
     {
         try
         {
-            System.out.println("FUCKING TEST \n");
-            String url = "jdbc:derby://localhost:1527/EpreuveTechHitema";
+            System.out.println("TEST \n");
+            String url = "jdbc:mysql://localhost/EpreuveTechHitema";
             String user = "root";
             String passwd = "root";
 
